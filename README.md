@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maheshhbalwan
 - 👀 I’m interested in Data Analytics
 - 📫 Reach me at http://maheshhbalwan.com/
-- 📫 https://www.linkedin.com/in/maheshhbalwan/
+- 📫 LinkedIn - https://www.linkedin.com/in/maheshhbalwan/
 
 
 
