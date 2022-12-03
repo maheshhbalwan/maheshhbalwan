@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maheshhbalwan
-- 👀 I’m interested in Data Analytics
+- 👀 I’m Learning Software Development
 - 📫 Reach me at http://maheshhbalwan.com/
 - 📫 LinkedIn - https://www.linkedin.com/in/maheshhbalwan/
 
