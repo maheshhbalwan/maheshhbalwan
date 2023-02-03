@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maheshhbalwan
-- 👀 I’m Learning Software Development
+- 👀 I’m pursuing [Post Graduate Program in Software Development](https://www.mygreatlearning.com/pg-program-software-engineering-course)
 - 📫 Reach me at http://maheshhbalwan.com/
 - 📫 LinkedIn - https://www.linkedin.com/in/maheshhbalwan/
 
