@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @maheshhbalwan
-- 👀 I’m interested in ...
+- 👀 I’m interested in Programming
+-   My Tech Stack is
+-     Java, Javascript, MongoDB, ExpressJS, ReactJS, NodeJS
 - 💻 I’m pursuing [Post Graduate Program in Software Development](https://www.mygreatlearning.com/pg-program-software-engineering-course)
 - 💞️ I'm looking to collaborate on projects and participate in hackathons
 - 📽️ My [Projects Portfolio](https://maheshhbalwan.github.io/)
